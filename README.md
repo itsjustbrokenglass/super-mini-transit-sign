@@ -7,3 +7,5 @@ Move the joystick left and right to cycle through different stops and their arri
   - Note for beginners: Hammer-on headers exist, but they're a special kind of header. Regular headers need to be soldered on, which I did not know. I originally ordered a headerless Raspberry Pi         with a regular header, thinking I could... hammer it on? That was not the case and I spent many hours in the terminal troubleshooting my pi, when the issue was a detached header all along... lol.
 - MicroSD (32GB)
 - Adafruit 128x64 OLED Bonnet
+
+![image]("C:\Users\perri\OneDrive\Desktop\IMG_6430.jpeg")
