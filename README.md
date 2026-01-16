@@ -9,4 +9,4 @@ Move the joystick left and right to cycle through different stops and their arri
 - Adafruit 128x64 OLED Bonnet
 
 
-<img src="C:\Users\perri\OneDrive\Desktop\IMG_6430.jpeg" width="48">
+![image](images/IMG_6430.jpeg)
