@@ -8,4 +8,5 @@ Move the joystick left and right to cycle through different stops and their arri
 - MicroSD (32GB)
 - Adafruit 128x64 OLED Bonnet
 
-![image](C:\Users\perri\OneDrive\Desktop\IMG_6430.jpeg)
+
+<img src="C:\Users\perri\OneDrive\Desktop\IMG_6430.jpeg" width="48">
